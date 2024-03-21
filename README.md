@@ -1,0 +1,3 @@
+👋 Hi, I’m @EdsonRosenoBala
+🌱 I’m currently learning Python and Data science...
+
